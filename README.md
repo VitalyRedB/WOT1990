@@ -1,2 +1,7 @@
-# WOT1990
-'''project with training in developing a program using the “pygame” module, creating an analogue of the game using original graphics, creating animation from a video file, compiling into EXE'''
+# World of Tanks 1990
+
+Training Project: Utilizing the "pygame" module, develop a game inspired by original graphics. 
+
+Incorporates animations sourced from video files.
+
+The zip file contains the executable.
